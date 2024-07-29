@@ -38,6 +38,7 @@ CREATE TABLE WRK_CLIENTES
 END
 GO
 
+
 -- =============================================
---FIM PROCEDURE
+--FIM PROCEDURE CLIENTES
 -- =============================================
